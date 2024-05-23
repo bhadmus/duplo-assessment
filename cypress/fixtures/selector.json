@@ -1,0 +1,17 @@
+{
+  "usernameField": "[data-test=\"username\"]",
+  "passwordField": "[data-test=\"password\"]",
+  "loginButton": "[data-test=\"login-button\"]",
+  "productPageHeader": "",
+  "addToCartButton": "[data-test=\"add-to-cart-sauce-labs-backpack\"]",
+  "cartCount": "",
+  "removeFromCartButton":"",
+  "burgerMenuButton": "",
+  "logoutButton": "",
+  "checkoutButton": "",
+  "firstNameField":"",
+  "lastNameField":"",
+  "postCodeField": "",
+  "placeOrderButton": "",
+  "orderConfirmationHeader": ""
+}
